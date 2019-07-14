@@ -23,7 +23,7 @@ https://github.com/ellyanalinden/dog_cat_densenet121/blob/master/Copy_of_Part_8_
 ## Result & Conclusion
 I used DenseNet 121. The accuracy is 98%.
 
-![cat](https://user-images.githubusercontent.com/39072490/61177839-e743b980-a59b-11e9-9f1e-a407ec628919.jpg)
+![cat](https://user-images.githubusercontent.com/39072490/61177953-21fb2100-a59f-11e9-9a1c-fa4e5e02b97e.jpg)
 
 ## References
 * Udacity Deep Learning Nanodegree Program
