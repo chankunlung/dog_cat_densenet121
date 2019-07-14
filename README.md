@@ -15,7 +15,7 @@ Building a CNN model using transfer learning (DenseNet 121) for dog-cat classifi
 
 ## How to run it
 * Clone the repository and CD into it
-
+https://github.com/ellyanalinden/dog_cat_densenet121/blob/master/Copy_of_Part_8_Transfer_Learning_(Exercises).ipynb
 
 * You can download the dataset from https://s3.amazonaws.com/content.udacity-data.com/nd089/Cat_Dog_data.zip
 
